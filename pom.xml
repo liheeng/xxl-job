@@ -41,6 +41,8 @@
 		<groovy.version>2.5.6</groovy.version>
 		<quartz.version>2.3.1</quartz.version>
 
+		<apollo-client.version>1.4.0</apollo-client.version>
+
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
 		<maven-javadoc-plugin.version>3.1.0</maven-javadoc-plugin.version>
 		<maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
